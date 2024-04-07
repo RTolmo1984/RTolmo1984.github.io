@@ -9,10 +9,9 @@ header{
     font-size: 1.5rem;
     padding-left: 3%;
     padding-top: 3%;
-    text-align: left;
+    text-align: justify;
     height: 3.4rem;
     background: #000000;
-    color: #ffffff;
 }
 
 .seccion_inicio {
@@ -27,6 +26,14 @@ header{
 .inicio_titulo{
     margin-left: 5%;
     border-top: 10%;
-    color: #504a4a;
+    color: #2b2929;
+}
+
+.inicio_parrafo{
+    margin-top: 5%;
+    margin-left: 50%;
+    margin-right:5%;
+    color: #0e0e0e;
+    font-size: 10;
 }
 
