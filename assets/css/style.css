@@ -1,0 +1,32 @@
+body {
+    font-family: "Raleway", sans-serif;
+    padding: 0;
+    margin: 0;
+}
+
+header{
+    padding-bottom: 0.1rem;
+    font-size: 1.5rem;
+    padding-left: 3%;
+    padding-top: 3%;
+    text-align: left;
+    height: 3.4rem;
+    background: #000000;
+    color: #ffffff;
+}
+
+.seccion_inicio {
+    background-image: url("../img/bg-yo.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: right top;
+    height: 50rem;
+    margin-top: 1px;
+  }
+
+.inicio_titulo{
+    margin-left: 5%;
+    border-top: 10%;
+    color: #504a4a;
+}
+
